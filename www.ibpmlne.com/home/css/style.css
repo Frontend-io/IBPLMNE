@@ -1,0 +1,213 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+	color:#333;
+	background: #FFF;
+}
+
+a {
+	color:#633;
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+.top_links {
+	font-weight: bold;
+	font-size: 11.30px;
+	font-family:Verdana, Geneva, sans-serif;
+	color: #333;
+	background: #CCC;
+}
+.top_links a {
+	color:#333;
+	text-decoration:none;
+	border-right:#FFF solid 2px;
+	padding-right:7px;
+
+}
+.top_links a:hover {
+	color:#F00;
+}
+.bottom_links {
+	color:#ccc;
+	background:#066;
+}
+.bottom_links a {
+	color:#fff;
+	text-decoration:none;
+}
+.bottom_links a:hover {
+	text-decoration:underline;
+}
+.holdpg {
+	border-top:solid #FFF 2px;
+	background:#ccc;
+	color:#333;
+	padding:20px;
+}
+.ibank_links a {
+	color:#006;
+	text-decoration:none;
+}
+.ibank_links a:hover {
+	text-decoration:underline;
+}
+.home_banners img {
+	border:1px solid #999999;
+}
+.home_panels {
+	background:url("../iimg/bg-section.gif") repeat-x top;
+	border:1px solid #999999;
+}
+h1,h2,h3,h4,h5,h6 {
+	margin-bottom:1em;
+	margin-top:0px;
+}
+h1 {
+	font-size:12px;
+}
+h1.styled {
+	color:#00482E;
+}
+.home_panel_header {
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:15px;
+	border-bottom:5px solid #CCCCCC;
+	padding:3px;
+}
+.home_panel_content {
+	padding-left:5px;
+	line-height:1.5em;
+}
+.home_panel_content a {
+	color:#066;
+	text-decoration:none;
+}
+.home_panel_content a:hover {
+	text-decoration:underline;
+}
+.side_menu {
+	padding:2px 0px;
+}
+.side_menu a {
+	color:#066;
+	text-decoration:none;
+	font-weight:bold;
+}
+.side_menu a:hover {
+	color:#000;
+}
+.content_head {
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:12px;
+	border-bottom:2px solid #CCCCCC;
+	color:#000
+}
+.page_head {
+	font-size:13px;
+	color: #066;
+	background:url("../iimg/flech_blue2.gif") left no-repeat;
+	padding-left:1.3em;
+}
+
+ul li{
+	list-style:none;
+	background:url("../iimg/greenTick.gif") left top no-repeat;
+	padding-left:1.5em;
+}
+strong.bolder {
+	font-size:13px;
+
+}
+
+#rotating-item-wrapper {
+	position: relative;
+	width: 100%;
+	height: 300px;
+ margin:0 auto;
+ z-index:50;
+ display:block;
+ float:left; 
+}
+.rotating-item {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+ }
+ .err {
+	color:#F00;
+	font-weight:bold;
+	
+}
+
+.bleftr{
+	width:70%;
+	display:block;
+	float:left;
+	 
+ }
+ .bleftr h2, .bleftr h3{
+	color:#066; 
+	margin-top:20px;
+ }
+ .bleftr div img{
+	margin-top:30px; 
+ }
+ .bleftr ul{
+	 display:block;
+	 width:80%;
+	 margin:0 auto;
+	 font-size:12px;
+	 line-height:2;
+	 margin-top:20px;
+ }
+
+ .bleftr p{
+	 width:100%;
+	 font-size:13px;
+	 margin-top:20px;
+	 text-align:justify;
+ }
+  
+  .logn label {
+	margin-top:60px;	
+	font-weight:bold;
+margin-top:20px
+}
+
+
+.bleftr input {
+	border-radius: 4px 4px 4px 4px;
+	padding:4px;
+	
+	
+}
+
+.logn #subbm {
+	padding:8px;
+	background:#033;
+	color:#FFF;
+	font-weight:bold;
+	
+}
+
+.hht {
+	color:#fff;
+	
+}	
+
+.holdtrans {
+		padding-left: 910px;	
+		padding-top: 5px;
+		padding-bottom: 5px;
+}
+
+	
